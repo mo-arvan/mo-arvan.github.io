@@ -24,10 +24,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+As a computer scientist, my research centers on the intersection of performance and reliability in machine learning. I specialize in the foundational elements of robust AI, including High-Performance Computing (HPC), system optimization, and scalable model design. These technical pursuits are guided by a primary focus on rigorous evaluation and scientific reproducibility, which I consider essential for advancing the field.
 
-I'm Mo. I completed my Ph.D. in Computer Science at the University of Illinois at Chicago, where I was mentored by [Dr. Natalie Parde](https://www.natalieparde.com/index.html). My research encompasses various areas within artificial intelligence such as machine learning, natural language processing, computer vision, and robotics.
+I translate these technical standards into the applied domain of healthcare. My work in algorithmic phenotyping has led to models that close care gaps in cancer screening, streamline hospital discharge planning, and shorten the diagnostic odyssey for patients with rare diseases like hEDS. These projects are the concrete result of applying robust computational standards to real-world problems.
 
-I am particularly committed to improving the evaluation and reproducibility of machine learning models. I am an advocate for Open Science, promoting transparency, equity, and inclusivity in research methodologies. I believe in the power of AI to serve the common good and enjoy solving complex problems with effective solutions.
-
-Additionally, I have a keen interest in the intersection of AI and healthcare. This includes working on developing machine learning models to identify high-risk cancer patients and innovating AI-based tools for the early detection of diseases. My aim is to enhance healthcare delivery and improve patient outcomes through the application of artificial intelligence.
-
+I earned my Ph.D. in Computer Science from the University of Illinois at Chicago, where I was mentored by [Dr. Natalie Parde](https://www.natalieparde.com/index.html).
