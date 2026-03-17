@@ -182,6 +182,9 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
+  - AGENTS.md
+  - ANALYTICS.md
+  - CLAUDE.md
   - FAQ.md
   - Gemfile
   - Gemfile.lock
@@ -192,8 +195,11 @@ exclude:
   - package-lock.json
   - _pages/about_einstein.md
   - purgecss.config.js
+  - QUICKSTART.md
   - README.md
   - readme_preview/
+  - SEO.md
+  - TROUBLESHOOTING.md
   - vendor
 keep_files:
   - CNAME
