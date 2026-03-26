@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-personal",
           title: "personal",
-          description: "A little info about my personal life :)",
+          description: "A little about me.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/personal/";
@@ -37,29 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-challenges-in-evaluating-llms-a-statistical-analysis-of-chatbot-arena-leaderboard",
-        
-          title: "Challenges in Evaluating LLMs: A Statistical Analysis of Chatbot Arena Leaderboard",
-        
-        description: "Comparing GPT-4 and Claude-v1 using statistical analysis",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/chatbot-arena/";
-          
-        },
-      },{id: "post-on-openllm-leaderboard",
-        
-          title: "On OpenLLM Leaderboard",
-        
-        description: "Technical review of the latest changes in the OpenLLM leaderboard",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/on-openllm-leaderboard/";
-          
-        },
-      },{id: "news-proud-recipient-of-pgra-award-5000",
+        },{id: "news-proud-recipient-of-pgra-award-5000",
           title: 'Proud recipient of PGRA award ($5000)',
           description: "",
           section: "News",},{id: "news-announcement-1",
