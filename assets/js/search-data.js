@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-leetcode-isn-39-t-the-job",
+        },{id: "post-how-i-actually-hire",
         
-          title: "LeetCode Isn&#39;t the Job",
+          title: "How I Actually Hire",
         
         description: "I hired two ML research assistants without a single puzzle question. Here&#39;s what worked.",
         section: "Posts",
