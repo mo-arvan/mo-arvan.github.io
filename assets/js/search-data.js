@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Mohammad Arvan&#39;s curriculum vitae.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "post-challenges-in-evaluating-llms-a-statistical-analysis-of-chatbot-arena-leaderboard",
         
           title: "Challenges in Evaluating LLMs: A Statistical Analysis of Chatbot Arena Leaderboard",
@@ -89,7 +82,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%6F.%61%72%76%61%6E@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%68%69.%6D%6F%61%72%76%61%6E@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
