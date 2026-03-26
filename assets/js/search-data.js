@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-proud-recipient-of-pgra-award-5000",
+        },{id: "post-leetcode-isn-39-t-the-job",
+        
+          title: "LeetCode Isn&#39;t the Job",
+        
+        description: "I hired two ML research assistants without a single puzzle question. Here&#39;s what worked.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/leetcode-isnt-the-job/";
+          
+        },
+      },{id: "news-proud-recipient-of-pgra-award-5000",
           title: 'Proud recipient of PGRA award ($5000)',
           description: "",
           section: "News",},{id: "news-announcement-1",
