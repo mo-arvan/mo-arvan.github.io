@@ -2,7 +2,7 @@
 layout: post
 title: "How I Actually Hire"
 description: I hired two ML research assistants without a single puzzle question. Here's what worked.
-tags: hiring interviews ML
+tags: hiring interviews ML AI
 date: 2026-03-25
 giscus_comments: true
 ---
@@ -17,7 +17,9 @@ Second, a 30-minute live interview. Walk me through your code, explain a decisio
 
 The take-home showed who could ship runnable work. The live round showed who understood what they shipped. That turned out to be the most informative step in the entire process.
 
-The most common gap was not technical skill. It was the distance between what was submitted and what could be explained. Several candidates turned in polished work but struggled to make a targeted change or walk through a design choice. AI tools are powerful, and they work best for people who can evaluate and adapt the output.
+The most common gap was not technical skill. It was the distance between what was submitted and what could be explained. Several candidates turned in polished work but struggled to make a targeted change or walk through a design choice.
+
+This isn't surprising. Even at Anthropic, engineers [report](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) that debugging and cleaning up AI-generated code takes longer precisely because they didn't write it themselves. One engineer described it as "the paradox of supervision": effectively using AI requires the very coding skills that atrophy from overuse. AI tools are powerful, and they work best for people who can evaluate and adapt the output.
 
 The last four candidates were all technically strong. The difference came down to judgment: how they handled ambiguity, whether they thought about data leakage unprompted, how they communicated under pressure.
 
