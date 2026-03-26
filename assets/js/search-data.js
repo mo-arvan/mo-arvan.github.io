@@ -45,7 +45,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/leetcode-isnt-the-job/";
+            window.location.href = "/blog/2026/how-i-actually-hire/";
           
         },
       },{id: "news-proud-recipient-of-pgra-award-5000",
