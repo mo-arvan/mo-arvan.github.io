@@ -24,4 +24,4 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I'm Mo.
+Postdoctoral Research Scholar at the University of Illinois at Chicago.
