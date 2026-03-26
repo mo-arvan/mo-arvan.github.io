@@ -6,7 +6,7 @@ description: Teaching materials and received reviews
 nav: true
 nav_order: 4
 ---
-I have worked as TA on the several entry and advanced courses in the department of computer science at UIC. I am genuinely passionate about helping others and always try my best to help students understand the concept. 
+I was a TA in the Department of Computer Science at UIC.
 
 - Program Design II (Fall 18, Spring 19)
 - Computer Algorithms (Fall 19, Spring 20)
