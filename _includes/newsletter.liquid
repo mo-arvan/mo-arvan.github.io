@@ -6,13 +6,13 @@
 >
   <form
     class="newsletter-form"
-    action="https://app.loops.so/api/newsletter-form/{{ site.newsletter.endpoint }}"
-    method="POST"
+    action="https://buttondown.com/api/emails/embed-subscribe/{{ site.newsletter.buttondown_username }}"
+    method="post"
     style="justify-content: {% if include.left %}flex-start{% elsif include.right %}flex-end{% else %}center{% endif %}"
   >
     <input
       class="newsletter-form-input"
-      name="newsletter-form-input"
+      name="email"
       type="email"
       placeholder="user@example.com"
       required=""
