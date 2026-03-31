@@ -8,6 +8,8 @@ giscus_comments: true
 
 authors:
   - name: Mohammad Arvan
+    affiliations:
+      name: AI.Health4All Center, University of Illinois Chicago
 
 ---
 
