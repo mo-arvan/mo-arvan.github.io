@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-how-i-actually-hire",
+        },{id: "post-hiring-when-every-resume-looks-the-same",
         
-          title: "How I Actually Hire",
+          title: "Hiring When Every Resume Looks the Same",
         
-        description: "I hired two ML research assistants without a single puzzle question. Here&#39;s what worked.",
+        description: "73 applicants, 2 positions, and every candidate had access to AI.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/how-i-actually-hire/";
+            window.location.href = "/blog/2026/hiring-when-every-resume-looks-the-same/";
           
         },
       },{id: "news-proud-recipient-of-pgra-award-5000",
