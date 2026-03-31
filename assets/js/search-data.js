@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "Hiring When Every Resume Looks the Same",
         
-        description: "73 applicants, 2 positions, and every candidate had access to AI.",
+        description: "73 applicants, two positions, and every candidate had access to AI.",
         section: "Posts",
         handler: () => {
           
