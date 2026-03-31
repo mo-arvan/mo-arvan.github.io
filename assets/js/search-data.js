@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-hiring-when-every-resume-looks-the-same",
+        },{id: "post-a-75-word-limit-shouldn-39-t-take-five-tries",
+        
+          title: "A 75-Word Limit Shouldn&#39;t Take Five Tries",
+        
+        description: "We asked a language model to answer patient questions under simple constraints. It matched the word count. It didn&#39;t match the writing.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/a-75-word-limit-shouldnt-take-five-tries/";
+          
+        },
+      },{id: "post-hiring-when-every-resume-looks-the-same",
         
           title: "Hiring When Every Resume Looks the Same",
         
