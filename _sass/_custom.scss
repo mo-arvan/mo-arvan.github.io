@@ -1,0 +1,16 @@
+// Custom style overrides for mo-arvan.github.io
+// This file is kept separate from upstream al-folio SASS to minimize merge conflicts.
+
+// Dark mode: use pink instead of cyan for theme/hover color
+html[data-theme="dark"] {
+  --global-theme-color: #f92080;
+  --global-hover-color: #f92080;
+}
+
+// Blockquote styling
+blockquote {
+  border-left: 2px solid var(--global-theme-color);
+  padding-left: 2em;
+  font-style: italic;
+  color: var(--global-footer-text-color);
+}
