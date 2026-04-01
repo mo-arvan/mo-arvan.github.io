@@ -43,4 +43,4 @@ The ownership gap matters because the work is research. A pipeline the author do
 
 The difference isn't between people who use AI tools and people who don't. It's between people who recognize the limitations of these tools and work around them, and people who follow their output blindly.
 
-A [Harvard/BCG study](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged) found that when AI gave plausible but wrong answers, consultants who trusted it without critical judgment performed worse than those with no AI at all. The first group is far more productive. That's who I was hiring for.
+A [Harvard/BCG study](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged) found that when AI gave plausible but wrong answers, consultants who trusted it without critical judgment performed worse than those with no AI at all. The ones who recognized the limits were far more productive. That's who I was hiring for.
