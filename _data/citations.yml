@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-20'
 papers:
   -Ht6JFEAAAAJ:2osOgNQ5qMEC:
     citations: 28
@@ -17,12 +17,16 @@ papers:
     citations: 6
     title: 'Teammedagents: Enhancing medical decision-making of llms through structured teamwork'
     year: '2025'
+  -Ht6JFEAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: 'UIC-AIHealth4All at ArchEHR-QA 2026: Answer-First Evidence Grounding for Clinical Question Answering'
+    year: Unknown Year
   -Ht6JFEAAAAJ:Tyk-4Ss8FVUC:
     citations: 3
     title: Linguistic Cognitive Load Analysis on Dialogues with an Intelligent Virtual Assistant
     year: '2023'
   -Ht6JFEAAAAJ:UeHWp8X0CEIC:
-    citations: 70
+    citations: 72
     title: 'Missing Information, Unresponsive Authors, Experimental Flaws: The Impossibility of Assessing the Reproducibility of Previous Human Evaluations in NLP'
     year: '2023'
   -Ht6JFEAAAAJ:W7OEmFMy1HYC:
@@ -30,7 +34,7 @@ papers:
     title: "ReproHum# 0712-01: Human evaluation reproduction report for \u201Chierarchical sketch induction for paraphrase generation\u201D"
     year: '2024'
   -Ht6JFEAAAAJ:WF5omc3nYNoC:
-    citations: 0
+    citations: 1
     title: 'UIC at ArchEHR-QA 2025: Tri-Step Pipeline for Reliable Grounded Medical Question Answering'
     year: '2025'
   -Ht6JFEAAAAJ:Y0pCki6q_DkC:
@@ -38,7 +42,7 @@ papers:
     title: Human Evaluation Reproduction Report for Data-to-text Generation with Macro Planning
     year: '2023'
   -Ht6JFEAAAAJ:_FxGoFyzp5QC:
-    citations: 1
+    citations: 2
     title: "\u201CCan ChatGPT answer patient\u2019s questions?\u201D: a preliminary analysis"
     year: '2025'
   -Ht6JFEAAAAJ:d1gkVwhDpl0C:
