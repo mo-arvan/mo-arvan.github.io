@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Scientist
+subtitle: Researcher, Builder, Writer
 
 profile:
   align: right
@@ -24,4 +24,6 @@ latest_posts:
   limit: 3
 ---
 
-Postdoctoral Research Scholar at the University of Illinois at Chicago.
+I am a computer scientist and postdoctoral research scholar at the University of Illinois Chicago. My academic work focuses on clinical informatics, AI evaluation, and decision support.
+
+More broadly, I study how high-stakes information systems shape consequential decisions, and how they fail when their logic is opaque, their evaluation is incomplete, or their workflows break at the point of use. Alongside my academic research, I also build independent public-interest and product experiments around transparency, legibility, and user control in algorithmic systems.
