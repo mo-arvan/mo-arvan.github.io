@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-29'
 papers:
   -Ht6JFEAAAAJ:2osOgNQ5qMEC:
     citations: 28
@@ -22,13 +22,17 @@ papers:
     title: 'UIC-AIHealth4All at ArchEHR-QA 2026: Answer-First Evidence Grounding for Clinical Question Answering'
     year: Unknown Year
   -Ht6JFEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 4
     title: Linguistic Cognitive Load Analysis on Dialogues with an Intelligent Virtual Assistant
     year: '2023'
   -Ht6JFEAAAAJ:UeHWp8X0CEIC:
-    citations: 72
+    citations: 73
     title: 'Missing Information, Unresponsive Authors, Experimental Flaws: The Impossibility of Assessing the Reproducibility of Previous Human Evaluations in NLP'
     year: '2023'
+  -Ht6JFEAAAAJ:UebtZRa9Y70C:
+    citations: 5
+    title: 'others. 2023. Missing information, unresponsive authors, experimental flaws: The impossibility of assessing the reproducibility of previous human evaluations in NLP'
+    year: '23'
   -Ht6JFEAAAAJ:W7OEmFMy1HYC:
     citations: 5
     title: "ReproHum# 0712-01: Human evaluation reproduction report for \u201Chierarchical sketch induction for paraphrase generation\u201D"
