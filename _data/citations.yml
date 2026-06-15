@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-15'
 papers:
   -Ht6JFEAAAAJ:2osOgNQ5qMEC:
     citations: 28
@@ -14,7 +14,7 @@ papers:
     title: Exploring Variation of Results from Different Experimental Conditions
     year: '2023'
   -Ht6JFEAAAAJ:LkGwnXOMwfcC:
-    citations: 7
+    citations: 8
     title: 'Teammedagents: Enhancing medical decision-making of llms through structured teamwork'
     year: '2025'
   -Ht6JFEAAAAJ:Se3iqnhoufwC:
@@ -58,7 +58,7 @@ papers:
     title: 'Machine Learning and Open Science: On Risks and Challenges'
     year: '2024'
   -Ht6JFEAAAAJ:qjMakFHDy7sC:
-    citations: 17
+    citations: 19
     title: Effects of an intelligent virtual assistant on office task performance and workload in a noisy environment
     year: '2023'
   -Ht6JFEAAAAJ:u-x6o8ySG0sC:
