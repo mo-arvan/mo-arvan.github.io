@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-26'
 papers:
   -Ht6JFEAAAAJ:2osOgNQ5qMEC:
     citations: 28
@@ -22,7 +22,7 @@ papers:
     title: 'UIC-AIHealth4All at ArchEHR-QA 2026: Answer-First Evidence Grounding for Clinical Question Answering'
     year: Unknown Year
   -Ht6JFEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 5
+    citations: 4
     title: Linguistic Cognitive Load Analysis on Dialogues with an Intelligent Virtual Assistant
     year: '2023'
   -Ht6JFEAAAAJ:UeHWp8X0CEIC:
@@ -30,7 +30,7 @@ papers:
     title: 'Missing Information, Unresponsive Authors, Experimental Flaws: The Impossibility of Assessing the Reproducibility of Previous Human Evaluations in NLP'
     year: '2023'
   -Ht6JFEAAAAJ:UebtZRa9Y70C:
-    citations: 6
+    citations: 8
     title: 'others. 2023. Missing information, unresponsive authors, experimental flaws: The impossibility of assessing the reproducibility of previous human evaluations in NLP'
     year: '23'
   -Ht6JFEAAAAJ:W7OEmFMy1HYC:
@@ -58,7 +58,7 @@ papers:
     title: 'Machine Learning and Open Science: On Risks and Challenges'
     year: '2024'
   -Ht6JFEAAAAJ:qjMakFHDy7sC:
-    citations: 19
+    citations: 20
     title: Effects of an intelligent virtual assistant on office task performance and workload in a noisy environment
     year: '2023'
   -Ht6JFEAAAAJ:u-x6o8ySG0sC:
