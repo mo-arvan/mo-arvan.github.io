@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-06-29'
 papers:
   -Ht6JFEAAAAJ:2osOgNQ5qMEC:
-    citations: 28
+    citations: 29
     title: 'Reproducibility in computational linguistics: Is source code enough?'
     year: '2022'
   -Ht6JFEAAAAJ:9yKSN-GCB0IC:
@@ -22,15 +22,15 @@ papers:
     title: 'UIC-AIHealth4All at ArchEHR-QA 2026: Answer-First Evidence Grounding for Clinical Question Answering'
     year: Unknown Year
   -Ht6JFEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 4
+    citations: 5
     title: Linguistic Cognitive Load Analysis on Dialogues with an Intelligent Virtual Assistant
     year: '2023'
   -Ht6JFEAAAAJ:UeHWp8X0CEIC:
-    citations: 75
+    citations: 76
     title: 'Missing Information, Unresponsive Authors, Experimental Flaws: The Impossibility of Assessing the Reproducibility of Previous Human Evaluations in NLP'
     year: '2023'
   -Ht6JFEAAAAJ:UebtZRa9Y70C:
-    citations: 8
+    citations: 9
     title: 'others. 2023. Missing information, unresponsive authors, experimental flaws: The impossibility of assessing the reproducibility of previous human evaluations in NLP'
     year: '23'
   -Ht6JFEAAAAJ:W7OEmFMy1HYC:
@@ -58,7 +58,7 @@ papers:
     title: 'Machine Learning and Open Science: On Risks and Challenges'
     year: '2024'
   -Ht6JFEAAAAJ:qjMakFHDy7sC:
-    citations: 20
+    citations: 21
     title: Effects of an intelligent virtual assistant on office task performance and workload in a noisy environment
     year: '2023'
   -Ht6JFEAAAAJ:u-x6o8ySG0sC:
