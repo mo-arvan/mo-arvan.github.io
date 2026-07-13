@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-13'
 papers:
   -Ht6JFEAAAAJ:2osOgNQ5qMEC:
     citations: 29
@@ -26,15 +26,15 @@ papers:
     title: Linguistic Cognitive Load Analysis on Dialogues with an Intelligent Virtual Assistant
     year: '2023'
   -Ht6JFEAAAAJ:UeHWp8X0CEIC:
-    citations: 76
+    citations: 77
     title: 'Missing Information, Unresponsive Authors, Experimental Flaws: The Impossibility of Assessing the Reproducibility of Previous Human Evaluations in NLP'
     year: '2023'
   -Ht6JFEAAAAJ:UebtZRa9Y70C:
-    citations: 9
+    citations: 13
     title: 'others. 2023. Missing information, unresponsive authors, experimental flaws: The impossibility of assessing the reproducibility of previous human evaluations in NLP'
     year: '23'
   -Ht6JFEAAAAJ:W7OEmFMy1HYC:
-    citations: 5
+    citations: 6
     title: "ReproHum# 0712-01: Human evaluation reproduction report for \u201Chierarchical sketch induction for paraphrase generation\u201D"
     year: '2024'
   -Ht6JFEAAAAJ:WF5omc3nYNoC:
@@ -47,7 +47,7 @@ papers:
     year: '2023'
   -Ht6JFEAAAAJ:_FxGoFyzp5QC:
     citations: 2
-    title: "\u201CCan ChatGPT answer patient\u2019s questions?\u201D: a preliminary analysis"
+    title: "\u201CCan ChatGPT Answer Patient's Questions?\u201D: A Preliminary Analysis"
     year: '2025'
   -Ht6JFEAAAAJ:d1gkVwhDpl0C:
     citations: 6
@@ -58,7 +58,7 @@ papers:
     title: 'Machine Learning and Open Science: On Risks and Challenges'
     year: '2024'
   -Ht6JFEAAAAJ:qjMakFHDy7sC:
-    citations: 21
+    citations: 23
     title: Effects of an intelligent virtual assistant on office task performance and workload in a noisy environment
     year: '2023'
   -Ht6JFEAAAAJ:u-x6o8ySG0sC:
@@ -70,7 +70,7 @@ papers:
     title: RoboCup rescue 2016 team description paper MRL
     year: '2016'
   -Ht6JFEAAAAJ:ufrVoPGSRksC:
-    citations: 1
+    citations: 2
     title: 'ReproHum:# 0744-02: Investigating the Reproducibility of Semantic Preservation Human Evaluations'
     year: '2025'
   -Ht6JFEAAAAJ:zYLM7Y9cAGgC:
