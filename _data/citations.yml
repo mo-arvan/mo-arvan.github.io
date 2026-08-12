@@ -1,8 +1,12 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-12'
 papers:
+  -Ht6JFEAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: 'TeamMedAgents: Pareto-Efficient Multi-Agent Medical Reasoning Through Teamwork Theory'
+    year: '2025'
   -Ht6JFEAAAAJ:2osOgNQ5qMEC:
-    citations: 29
+    citations: 30
     title: 'Reproducibility in computational linguistics: Is source code enough?'
     year: '2022'
   -Ht6JFEAAAAJ:9yKSN-GCB0IC:
@@ -10,23 +14,23 @@ papers:
     title: Human Interaction with Intelligent Virtual Assistant in a Noisy Environment
     year: '2022'
   -Ht6JFEAAAAJ:IjCSPb-OGe4C:
-    citations: 1
+    citations: 2
     title: Exploring Variation of Results from Different Experimental Conditions
     year: '2023'
   -Ht6JFEAAAAJ:LkGwnXOMwfcC:
     citations: 8
-    title: 'Teammedagents: Enhancing medical decision-making of llms through structured teamwork'
+    title: 'TeamMedAgents: Enhancing medical decision-making of LLMs through structured teamwork'
     year: '2025'
   -Ht6JFEAAAAJ:Se3iqnhoufwC:
     citations: 0
     title: 'UIC-AIHealth4All at ArchEHR-QA 2026: Answer-First Evidence Grounding for Clinical Question Answering'
-    year: Unknown Year
+    year: '2026'
   -Ht6JFEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 5
+    citations: 4
     title: Linguistic Cognitive Load Analysis on Dialogues with an Intelligent Virtual Assistant
     year: '2023'
   -Ht6JFEAAAAJ:UeHWp8X0CEIC:
-    citations: 77
+    citations: 78
     title: 'Missing Information, Unresponsive Authors, Experimental Flaws: The Impossibility of Assessing the Reproducibility of Previous Human Evaluations in NLP'
     year: '2023'
   -Ht6JFEAAAAJ:UebtZRa9Y70C:
@@ -57,6 +61,10 @@ papers:
     citations: 0
     title: 'Machine Learning and Open Science: On Risks and Challenges'
     year: '2024'
+  -Ht6JFEAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: Real-World Evaluation of an AI Agent Drafting Translational Impact Summaries
+    year: '2026'
   -Ht6JFEAAAAJ:qjMakFHDy7sC:
     citations: 23
     title: Effects of an intelligent virtual assistant on office task performance and workload in a noisy environment
