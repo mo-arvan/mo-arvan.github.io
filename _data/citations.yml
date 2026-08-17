@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-17'
 papers:
   -Ht6JFEAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -9,6 +9,10 @@ papers:
     citations: 30
     title: 'Reproducibility in computational linguistics: Is source code enough?'
     year: '2022'
+  -Ht6JFEAAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: 'Computable Phenotype for Identifying Undiagnosed Hypermobile Ehlers-Danlos Syndrome: Protocol for a Development and Validation Study'
+    year: '2026'
   -Ht6JFEAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: Human Interaction with Intelligent Virtual Assistant in a Noisy Environment
