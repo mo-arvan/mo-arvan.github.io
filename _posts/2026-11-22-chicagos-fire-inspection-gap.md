@@ -4,6 +4,7 @@ title: "Chicago's Fire Inspection Gap"
 description: Chicago inspects 16.8% of the buildings its fire code requires each year. A public-data inventory, a risk-ranked inspection queue, and a costed plan to close the gap.
 tags: civic-data public-policy chicago
 date: 2026-11-22
+math: false
 toc:
   sidebar: left
 ---
