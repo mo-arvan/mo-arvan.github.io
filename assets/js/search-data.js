@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-a-75-word-limit-shouldn-39-t-take-five-tries",
+        },{id: "post-chicago-39-s-fire-inspection-gap",
+        
+          title: "Chicago&#39;s Fire Inspection Gap",
+        
+        description: "Chicago inspects 16.8% of the buildings its fire code requires each year. A public-data inventory, a risk-ranked inspection queue, and a costed plan to close the gap.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/chicagos-fire-inspection-gap/";
+          
+        },
+      },{id: "post-a-75-word-limit-shouldn-39-t-take-five-tries",
         
           title: "A 75-Word Limit Shouldn&#39;t Take Five Tries",
         
